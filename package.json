@@ -1,0 +1,21 @@
+{
+    "name": "vscode-theme-nightmlare",
+    "displayName": "vscode-theme-nightmlare",
+    "description": "Nightmlare Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightmlare Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightmlare Theme-color-theme.json"
+            }
+        ]
+    }
+}
