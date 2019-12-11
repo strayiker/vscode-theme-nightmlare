@@ -23,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nightmlare Theme",
+        "label": "NigHTMLare Color Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nightmlare Theme-color-theme.json"
+        "path": "./themes/nigHTMLare.json"
       }
     ]
   }
